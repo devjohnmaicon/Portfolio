@@ -14,7 +14,7 @@ import {
 import { SendMessage } from "../../components/Buttons/SendMessage";
 import { PopupMessage } from "./pop-up/PopupMessage";
 
-const staticKey = process.env.REACT_APP_STATICFORMS;
+const staticKey = process.env.REACT_APP_STATIC_FORMS;
 
 export const Contact = () => {
   const [contact, setContact] = useState({
