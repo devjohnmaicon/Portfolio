@@ -1,4 +1,4 @@
-import { HeaderComponent, Nav, NavMobile } from "./styleHeader ";
+import { HeaderComponent, Nav } from "./styleHeader ";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineClose } from "react-icons/ai";
 

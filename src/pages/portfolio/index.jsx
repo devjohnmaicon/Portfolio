@@ -16,7 +16,7 @@ export default function Portfolio() {
 
   const showProject = (id) => {
     setShowGallery(true);
-    Projetos.filter((p) => p.id == id)
+    Projetos.filter((p) => p.id === id)
       .map((i) => i.images)
       .forEach((element) => setImagesSlide(element));
   };

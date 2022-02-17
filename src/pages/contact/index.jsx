@@ -3,13 +3,10 @@ import { Section, Container, Box, FormContainer } from "./styleContact";
 
 import {
   FaEnvelope,
-  FaEnvelopeOpen,
   FaGithub,
-  FaInvision,
   FaLinkedinIn,
   FaMapMarkerAlt,
   FaPhoneAlt,
-  FaTelegramPlane,
 } from "react-icons/fa";
 import { SendMessage } from "../../components/Buttons/SendMessage";
 import { PopupMessage } from "./pop-up/PopupMessage";
@@ -99,18 +96,12 @@ export const Contact = () => {
             <div className="social-medias">
               <a
                 href="https://www.linkedin.com/in/john-maicon-065797212/"
-                target="_blank"
-                rel=" noopener"
-                rel="nofollow"
               >
                 <FaLinkedinIn />
               </a>
 
               <a
                 href="https://github.com/devjohnmaicon"
-                target="_blank"
-                rel=" noopener"
-                rel="nofollow"
               >
                 <FaGithub />
               </a>
