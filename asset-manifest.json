@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.0febfc2c.css",
+    "main.js": "/my-portfolio/static/js/main.2b01b194.js",
+    "static/media/home.png": "/my-portfolio/static/media/home.6359422c27024bf42689.png",
+    "static/media/bg-home.jpg": "/my-portfolio/static/media/bg-home.b73c406e19379bacd269.jpg",
+    "static/media/bg-teste.jpg": "/my-portfolio/static/media/bg-teste.81a17092d264b265a15c.jpg",
+    "static/media/portfolio.png": "/my-portfolio/static/media/portfolio.2a908f3dc4dfe265a3ff.png",
+    "static/media/photo-profile.jpg": "/my-portfolio/static/media/photo-profile.b8fdf5d6efac24e17527.jpg",
+    "static/media/sobre.png": "/my-portfolio/static/media/sobre.b1e29c80133a8da8c742.png",
+    "static/media/contact.png": "/my-portfolio/static/media/contact.7889f49afa07ebb3647a.png",
+    "static/media/capa-6.jpg": "/my-portfolio/static/media/capa-6.72e68ca4e04a57a59588.jpg",
+    "static/media/capa-3.jpg": "/my-portfolio/static/media/capa-3.ce5f8cfa7a087e14421c.jpg",
+    "static/media/capa-5.jpg": "/my-portfolio/static/media/capa-5.51287d909777d944f677.jpg",
+    "static/media/capa-4.jpg": "/my-portfolio/static/media/capa-4.96caf25b65a19ed0cbe8.jpg",
+    "static/media/capa-2.jpg": "/my-portfolio/static/media/capa-2.b0e270c418c26ecd7309.jpg",
+    "static/media/capa-1.jpg": "/my-portfolio/static/media/capa-1.9bb144f1f837c5ad9432.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.0febfc2c.css.map": "/my-portfolio/static/css/main.0febfc2c.css.map",
+    "main.2b01b194.js.map": "/my-portfolio/static/js/main.2b01b194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0febfc2c.css",
+    "static/js/main.2b01b194.js"
+  ]
+}
