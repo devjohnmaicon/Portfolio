@@ -14,16 +14,19 @@ export const About = () => {
             <h3>John Maicon</h3>
 
             <p>
-              Programador e desenvolvedor há quase 2 anos atuando diretamente no
-              mercado. Iniciei a carreira em 2019 quando descobri meu maior
-              vício: códigos. Meu primeiro emprego foi em uma fabrica de
-              software, que me proporcionou a primeira experiência e entrada no
-              mercado, a partir daí comecei a desenvolver projetos pessoais das
-              mais diversas formas, Websites, Aplicativos, Sistemas, adquirindo
-              conhecimentos de programação, hoje utilizados no mercado.
+              Desenvolvedor de aplicações web há quase 2 anos. Iniciei minha
+              carreira em 2019 quando descobri o mundo da programação. A
+              primeira experiência com programação, foi quando desenvolvi uma
+              mini aplicação TODO LIST, que utilizei para organizar meus
+              estudos. Com isso ingressei na faculdade e assim consegui minha
+              primeira vaga de desenvoledor, como estagiário em uma
+              multinacional a <cite> Stefanini Solutions</cite>, que me
+              proporcionou minha primeira experiência profissional. A partir daí
+              comecei a desenvolver Websites e Aplicações Web, adquirindo
+              conhecimentos de programação, hoje utilizados para atuar como
+              desenvolvedor freelancer.
             </p>
-
-            <p>UI/UX</p>
+            {/* <p>UI/UX</p> */}
             <p>Front-end</p>
             <p>Back-end</p>
 
