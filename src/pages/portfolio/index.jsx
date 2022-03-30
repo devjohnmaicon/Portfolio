@@ -28,8 +28,8 @@ export default function Portfolio() {
 
         <div className="filter">
           <button onClick={() => handleFilter("all")}>Todos</button>
-          <button onClick={() => handleFilter("web")}>Sites</button>
-          <button onClick={() => handleFilter("wordpress")}>Wordpress</button>
+          {/* <button onClick={() => handleFilter("web")}>Sites</button> */}
+          {/* <button onClick={() => handleFilter("wordpress")}>Wordpress</button> */}
         </div>
 
         <Content>
